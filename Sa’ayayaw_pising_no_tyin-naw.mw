@@ -1,0 +1,267 @@
+<!-- 頂欄開始 -->
+__NOEDITSECTION__
+ __NOTOC__
+<div id="mp_header" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0 0 0.5em; overflow: hidden; padding: 0.5em; font-size: small; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;"></div>
+
+<inputbox>
+ type      = create
+ width     = 60
+ bgcolor   = #ffffff
+ preload   = Template:Standard content for new page
+ editintro = Template:Instructions
+ default   =
+</inputbox>
+
+
+
+
+<!-- 頂欄結束 -->{| id="mp-upper" style="margin:0; background:none; background: transparent;background-color:#fff;  margin-top:10px"
+<!--     =====================   Wikipedia  ====================     -->
+|-
+
+
+<div class="center">[[Kasi’iked:PrefixIndex/Wp/ami|All pages of Wikipedia no Sowal no Pangcah]]<br/>
+[[Kasi’iked:PrefixIndex/Category:Wp/ami|All categories]]<br/>
+[[Kasi’iked:PrefixIndex/Template:Wp/ami|All templates]]<br/></div>
+
+這裡是讓人試驗[[:zh:阿美語|阿美語]]的維基。'''歡迎你來貢獻寫阿美語'''。等到著作的文章量滿足了一定的標準，阿美語維基就會獲准成立，全部的內容正會轉換到正式的阿美語維基。在試驗的維基裡，文章的標題必須用<nowiki>[[Name of article]] </nowiki>的樣式。例如，「Pangcah」該篇文章的標題就是[[[[Pangcah]]]]。 （在正式的Wikipedia的標題當然是<nowiki>[[Pangcah]]</nowiki>.）
+
+
+<div class="center">我們已經有{{NUMBEROFARTICLES}}篇文章。</div>
+<div class="center">[[:Category:U suwal nu i amisay a Pangcah|U suwal nu i amisay a Pangcah(南勢阿美語)]]<br />
+[[:Category:Siwkulang 'Amis|Siwkulang 'Amis(秀姑巒阿美語)]]<br />
+[[:Category:Pasawalian 'Amis|Pasawalian 'Amis(海岸阿美語)]]<br />
+[[:Category:Farangaw 'Amis|Farangaw 'Amis(馬蘭阿美語)]]<br />
+[[:Category:Palidaw 'Amis|Palidaw 'Amis(恆春阿美語)]]</div><br />
+
+<div style="float: right; width: 51%; margin: 0em 0em 1em 0em;">
+<div style="margin: 3pt 0pt; padding: 3pt; background: #FFB74C; color: #000000; border-width: 0pt 0pt 0pt 3pt; border-color: #FF4500; border-style: solid;">
+[[Faylo:Crystal kappfinder.png|20px|left]]
+<h2 style="font-size: 125%; font-weight: normal; display: inline; border-style: none;"
+id="Mikilim">'''{{RyuHover|Mikilim|}}'''</h2></div>
+<inputbox>
+type=search
+width=27
+default=
+buttonlabel=Masadak
+searchbuttonlabel=Mikilim
+break=no
+align=center
+bgcolor=#ffffff
+</inputbox>
+</div>
+</div>
+
+<!--Categories-->
+
+<!--Tilid-->
+|rowspan=2 class="MainPageBG" style="width:65%; border:1px solid #c2dfff; vertical-align:top; color:#000; padding: 0px 10px 10px 0px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;"| 
+{|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background:transparent;"
+|-
+!<div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+[[Faylo:Blue-bg.svg|link=]]
+<div style="position:absolute; left:5px; top:-5px;">[[Faylo:HSAktuell.svg|38px|link=]]</div>
+<div style="position:absolute; left:5px; top:-5px;">[[Faylo:HSUtvald.svg|38px|link=]]</div>
+<div style="position:absolute; left:40px; top:-20px;"><h2 style="font-weight:bold; border-bottom:none; font-size:120%; padding:.15em .4em;">[[Masalipa:Tilid|Tilid]]</h2></div></div>
+</div>
+<!--Singpung-->
+|-
+!<div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+[[Faylo:Blue-bg.svg|link=]]
+<div style="position:absolute; left:40px; top:-20px;"><h2 style="font-weight:bold; border-bottom:none; font-size:120%; padding:.15em .4em;">[[Masalipa:Singpung|Singpung]]</h2></div></div>
+</div>
+
+
+
+|-
+! <div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+[[Faylo:Blue-bg.svg|link=]]
+<div style="position:absolute; left:5px; top:-5px;">[[Faylo:Text-x-generic with pencil-2.svg|38px|link=]]</div>
+<div style="position:absolute; left:40px; top:0px;"><h2 style="margin:0; border-bottom:0; font-size:110%; font-weight:bold; text-align:left; color:#000; padding:.15em .4em;">Minanam</h2></div></div>
+|-
+|<div style="font-size: 300%; text-align: center; line-height: 100%; color: #28d;  clear: both;">'''mi'aw'aw'''
+汪汪叫
+
+例句:'''Mi'aw'aw''' kora waco i takowanan.
+
+那隻狗對我汪汪叫。
+</div>
+|}
+| style="border:5px solid transparent;" |
+<!--     =====================   WIKI  ====================     -->
+| style="width:35%; border:1px solid #cedff2; background:#f5faff; vertical-align:top; padding: 0px 10px 10px 0px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;"|
+{| id="mp-right" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5faff; background:transparent;"
+!<div style="text-align:left; position:relative; left:4px; top:2px; border:1px solid #C26DEFE; background:#C6DEFE; height:25px;">
+<div style="position:absolute; left:5px; top:-5px;">[[Faylo:W in a circle.svg|38px|link=]]</div>
+<div style="position:absolute; left:40px; top:0px;"><h2 style="margin:0; border-bottom:0; font-size:110%; font-weight:bold; text-align:left; color:#000; padding:.15em .4em;">Nga'ay ho!</h2></div></div>
+|-
+|Maenga' a mitilid no nimanima a Wikipedia toninian.我們的目標是編輯一個完整、準確以及中立的百科全書。
+
+|-
+!<div style="text-align:left; position:relative; left:4px; top:2px; border:1px solid #C26DEFE; background:#C6DEFE; height:25px;">
+<div style="position:absolute; left:5px; top:-5px;">[[Faylo:Text-x-generic with pencil-2.svg|38px|link=]]</div>
+<div style="position:absolute; left:40px; top:0px;"><h2 style="margin:0; border-bottom:0; font-size:110%; font-weight:bold; text-align:left; color:#000; padding:.15em .4em;">Mikapot</h2></div></div>
+|-
+|This series of pages is for a test-wikipedia in the [[:en:Amis language|Amis language]]. 
+Your Amis input here will be appreciated. The request for the creation of the Amis Wikipedia will be approved if and when there is sufficient article content. When it is approved, all content here would be moved to the actual Wikipedia.
+
+Because this is a test-wikipedia all articles here must begin with the format <nowiki>[[Name of article]]</nowiki>. For example, an article about Pangcah should be titled here as [[[[Pangcah]]]]. (Of course in the actual wikipedia, the article would be titled as <nowiki>[[Pangcah]]</nowiki>.)
+
+''Amis speakers are encouraged to create as many top-quality articles as possible.''
+
+|-
+!<div style="text-align:left; position:relative; left:4px; top:2px; border:1px solid #C26DEFE; background:#C6DEFE; height:25px;">
+<div style="position:absolute; left:5px; top:-5px;">[[Faylo:HSBild.svg|38px|link=]]</div>
+<div style="position:absolute; left:40px; top:0px;"><h2 style="margin:0; border-bottom:0; font-size:110%; font-weight:bold; text-align:left; color:#000; padding:.15em .4em;">Siyasing</h2></div></div>
+|-
+|[[Faylo:Taiwan aborigine amis dance.jpg|300px|center]]
+|
+{| style="border-collapse:collapse;width:100%;margin:1em; padding-right:6px;font-size:95%; background:none;"
+|-
+|}
+|}
+|}
+
+
+
+<div style="float: left; width: 100%; margin: 0em 0em 1em 0em;">
+<div style="margin: 3pt 0pt; padding: 3pt; background: #88bfbf; color: #000000; border-width: 0pt 0pt 0pt 3pt; border-color: #0000ff; border-style: solid;">
+[[Faylo:Crystal Clear app package network.png|20px|left]]
+<h2 style="font-size: 125%; font-weight: normal; display: inline; border-style: none;"
+id="多言語版ヰキペディヤ">'''{{RyuHover|Romaroma a sowal|}}'''</h2></div>
+{{RyuHover|[[:en:|English]] - [[:de:|Deutsch]] - [[:fr:|Français]] - [[:pl:|Polski]] - [[:ja:|日本語(sowal no Dipon)]] - [[Wp/ami|沖縄口]] - [[:it:|Italiano]] - [[:nl:|Nederlands]] - [[:pt:|Português]] - [[:es:|Español]] - [[:ru:|Русский]] - [[:nan:|Tâi-gí(sowal no Ngayngay)]] - [[:sv:|Svenska]] - [[:zh:|中文(sowal no Paylang)]]- [[:zh-yue:|粵語]] - [[:ko:|한국어]] - [[wp/jje|제주말]] - [[:no:|‪Norsk]] - [[:fi:|Suomi]] - [[:ca:|Català]] - [[:uk:|Українська]] - [[:tr:|Türkçe]] - [[:ro:|Română]] - [[:cs:|Česky]] - [[:hu:|Magyar]] - [[:eo:|Esperanto]] - [[:sk:|Slovenčina]] - [[wp/ain|Aynu itak]]|}}
+
+</div>
+
+<div style="float: left; width: 100%; margin: 0em 0em 1em 0em;">
+<div style="margin: 3pt 0pt; padding: 3pt; background: #88bfbf; color: #000000; border-width: 0pt 0pt 0pt 3pt; border-color: #0000ff; border-style: solid;">
+[[Faylo:Crystal Clear app package network.png|20px|left]]
+<h2 style="font-size: 125%; font-weight: normal; display: inline; border-style: none;"
+id="多言語版ヰキペディヤ">'''{{RyuHover|Roma a finacadan i Taywan a sowal|}}'''</h2></div>
+{{RyuHover|[[Wp/bnn|Bunun]] - [[Wp/xnb|Kanakanavu]] - [[Wp/pwn|Paiwan]] - [[Wp/uun|Pazih]] - [[Wp/pyu|Puyuma]] - [[Wp/dru|Rukai]] - [[Wp/xsy|Saisiyat]] - [[w:szy:|Sakizaya]] - [[w:trv:|Seediq]] - [[Wp/tvx|Taivoan]] - [[Wp/tao|Tao]] - [[w:tay:|Tayal]] - [[Wp/ssf|Thao]] - [[Wp/tsu|Tsou]]|}}
+
+</div>
+
+<div style="float: left; width: 100%; margin: 0em 0em 1em 0em;">
+<div style="margin: 3pt 0pt; padding: 3pt; background: #88bfbf; color: #000000; border-width: 0pt 0pt 0pt 3pt; border-color: #0000ff; border-style: solid;">
+[[Faylo:Wikimedia-logo.svg|20px|left]]
+<h2 style="font-size: 125%; font-weight: normal; display: inline; border-style: none;"
+id="姉妹ぐぬみ">'''{{RyuHover|Salikaka ni Wiki|}}'''</h2></div>
+<div style="margin:0.1em;padding:0.1em 0.5em">
+{| style="width: 100%;"
+|- style="vertical-align: top;"
+| [[Faylo:Wiktionary-logo-en.svg|35x35px|Wiktionary]]
+| [[Wt/ami/Main Page|{{RyuHover|'''Wiktionary'''|}}]]<br />{{RyuHover|pakoniraay a {{Template:Ruby|辞|ci}}{{Template:Ruby|典|ting}}|}}
+| [[Faylo:Wikisource-logo.svg|35x35px|Wikisource]]
+| [[oldwikisource:Main Page/中文|{{RyuHover|'''Wikisource'''|}}]]<br />{{RyuHover|著作権フリー文書|}}
+| [[Faylo:Wikiquote-logo.svg|35x35px|Wikiquote]]
+| [[wikiquote:zh:首頁|{{RyuHover|'''Wikiquote'''|}}]]<br />{{RyuHover|caciyaw no tadamaanay|}}
+|- style="vertical-align: top;"
+| [[Faylo:Wikibooks-logo.svg|35x35px|Wikibooks]]
+| [[Wb/ami/Main Page|{{RyuHover|'''Wikibooks'''|}}]]<br />{{RyuHover|いちゃんだ教科書|}}
+| [[Faylo:Wikinews-logo.svg|35x35px|Wikinews]]
+| [[wikinews:zh:首頁|{{RyuHover|'''Wikinews'''|}}]]<br />{{RyuHover|pakoniraay a ratoh|}}
+| [[Faylo:Wikiversity-logo.svg|35x35px|Wikiversity]]
+| [[wikiversity:zh:首頁|{{RyuHover|'''Wikiversity'''|}}]]<br />{{RyuHover|{{Template:Ruby|大|tay}}{{Template:Ruby|學|kako}} no Wiki|}}
+|- style="vertical-align: top;"
+| [[Faylo:Wikispecies-logo.svg|35x35px|Wikispecies]]
+| [[species:首頁|{{RyuHover|'''Wikispecies'''|}}]]<br />{{RyuHover|'a'adopen ato dateng|}}
+| [[Faylo:Commons-logo.svg|35x35px|Commons]]
+| [[commons:首頁|{{RyuHover|'''Commons'''|}}]]<br />{{RyuHover|ファイルぬ集積|}}
+| [[Faylo:Wikimedia-logo.svg|35x35px|Wikimedia]]
+| [[meta:首頁|{{RyuHover|'''Wikimedia'''|}}]]<br />{{RyuHover|全プロジェクトぬ議論|}}
+|colspan="2"|&nbsp;
+|}
+</div>
+
+{|
+|- 
+| width="50%" valign="middle" | 
+{| width="100%"  border="0" cellspacing="0" cellpadding="5"
+<!---------------------------------------------->
+| width="10%" | [[Faylo:Nuvola_apps_kcoloredit.png|40px|center]]
+| width="90%" style="font-size: 95%; " |  '''Serangawan'''<br/> 
+[[Serangawan]]&nbsp;- [[Serangawan no Pangcah]]&nbsp;- [[Serangawan no Paylang]]&nbsp;-[[Serangawan no Ngayngay]]&nbsp;- [[Serangawan no Holam]]&nbsp;
+<!---------------------------------------------->
+|-
+<!---------------------------------------------->
+| [[Faylo:Nuvola apps edu languages.png |40px|center]]
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" | '''Sowal'''<br/>
+[[Sowal no Pangcah]]&nbsp;- [[Ngayngay a sowal]]&nbsp;- [[Sowal no Paylang]]&nbsp;
+<!---------------------------------------------->
+|- 
+<!---------------------------------------------->
+| [[Faylo:ReligiousSymbolsIndian.PNG|40px|center]]
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" | '''Religeon'''<br/>
+[[Paysin]]&nbsp;-[[Mitapoh]]&nbsp;- [[Kiyokay]]&nbsp;-  [[Lisin to pita'ong to to'as]]&nbsp;- [[Lisin to pifolesakan]]&nbsp;- [[Kawas]]&nbsp;- [[Sapie'daw]]&nbsp;
+<!---------------------------------------------->
+|}
+| width="50%" valign="top" | 
+{| width="100%"  border="0" cellspacing="0" cellpadding="5"
+|- 
+<!---------------------------------------------->
+| width="10%" | [[Faylo:Gnome-globe.svg|40px|center]]
+| width="90%" style="font-size: 95%;" | '''Geography'''<br/>
+<!---------------------------------------------->
+|- 
+<!---------------------------------------------->
+| [[Faylo:Animhorse.gif|40px|center]]
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA; " | '''Adopen'''<br/>
+[[Fafaoy|Fafoy]]&nbsp;- [[Kafos]]&nbsp;-  [[Kalang]]&nbsp;- [[Mangcel]]&nbsp;- [[Rakorako]]&nbsp;- [[Siri]]&nbsp;- [[Waco]]&nbsp;- [[Foting]]&nbsp;- [[Pusi]]&nbsp;- [[Kudiwis]]&nbsp;- [[Lotong]]&nbsp;-
+<!---------------------------------------------->
+|- 
+<!---------------------------------------------->
+| [[Faylo:Sports and games.png|40px|center]]
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" | '''Sport'''<br/>
+[[Mali^]]&nbsp;
+<!---------------------------------------------->
+|- 
+<!---------------------------------------------->
+| [[Faylo:Nuvola apps bug.png|40px|center]]
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" | '''Fao^'''<br/>
+[[Likes]]&nbsp;-[[Koto^]]&nbsp;-[[Lalangaw]]&nbsp;- [['Odal|'Odal]]&nbsp;- [[Kaketi]]&nbsp;- [[Dadacdac]]&nbsp;- [[Fararangad]]&nbsp;- [[Tatekoh]]&nbsp;- [['Atimla^|'Atimla^]]&nbsp;- [[Riri']]&nbsp;
+<!---------------------------------------------->
+|}
+|}
+
+[[Kasasiwasiw:Siwkulang 'Amis]]
+
+<!--Interwikis-->
+[[am:]]
+[[az:]]
+[[bo:]]
+[[cdo:]]
+[[chy:]]
+[[cr:]]
+[[da:]]
+[[de:]]
+[[dz:]]
+[[el:]]
+[[en:]]
+[[es:]]
+[[fa:]]
+[[fi:]]
+[[fr:]]
+[[hak:]]
+[[haw:]]
+[[iu:]]
+[[ko:]]
+[[lo:]]
+[[ja:]]
+[[nan:]]
+[[om:]]
+[[pl:]]
+[[pt:]]
+[[ru:]]
+[[ta:]]
+[[tl:]]
+[[tr:]]
+[[th:]]
+[[uz:]]
+[[vi:]]
+[[war:]]
+[[wuu:]]
+[[za:]]
+[[zh:]]
+[[zh-classical:]]
+[[yue:]]
