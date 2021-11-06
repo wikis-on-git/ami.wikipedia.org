@@ -20,11 +20,11 @@ __NOEDITSECTION__
 |-
 
 
-<div class="center">[[Kasi’iked:PrefixIndex/Wp/ami|All pages of Wikipedia no Sowal no Pangcah]]<br/>
-[[Kasi’iked:PrefixIndex/Category:Wp/ami|All categories]]<br/>
-[[Kasi’iked:PrefixIndex/Template:Wp/ami|All templates]]<br/></div>
+<div class="center">[[Kasi’iked:AllPages|All pages of Wikipedia no Sowal no Pangcah]]<br/>
+<span class="plainlinks">[https://ami.wikipedia.org/wiki/Kasi%E2%80%99iked:%E5%AD%97%E9%A6%96%E7%B4%A2%E5%BC%95?prefix=&namespace=14 All categories]</span><br>
+<span class="plainlinks">[https://ami.wikipedia.org/wiki/Kasi%E2%80%99iked:%E5%AD%97%E9%A6%96%E7%B4%A2%E5%BC%95?prefix=&namespace=10 All templates]</span><br></div>
 
-這裡是讓人試驗[[:zh:阿美語|阿美語]]的維基。'''歡迎你來貢獻寫阿美語'''。等到著作的文章量滿足了一定的標準，阿美語維基就會獲准成立，全部的內容正會轉換到正式的阿美語維基。在試驗的維基裡，文章的標題必須用<nowiki>[[Name of article]] </nowiki>的樣式。例如，「Pangcah」該篇文章的標題就是[[[[Pangcah]]]]。 （在正式的Wikipedia的標題當然是<nowiki>[[Pangcah]]</nowiki>.）
+這裡是讓人試驗[[:zh:阿美語|阿美語]]的維基。'''歡迎你來貢獻寫阿美語'''。等到著作的文章量滿足了一定的標準，阿美語維基就會獲准成立，全部的內容正會轉換到正式的阿美語維基。
 
 
 <div class="center">我們已經有{{NUMBEROFARTICLES}}篇文章。</div>
@@ -129,7 +129,7 @@ Because this is a test-wikipedia all articles here must begin with the format <n
 [[Faylo:Crystal Clear app package network.png|20px|left]]
 <h2 style="font-size: 125%; font-weight: normal; display: inline; border-style: none;"
 id="多言語版ヰキペディヤ">'''{{RyuHover|Romaroma a sowal|}}'''</h2></div>
-{{RyuHover|[[:en:|English]] - [[:de:|Deutsch]] - [[:fr:|Français]] - [[:pl:|Polski]] - [[:ja:|日本語(sowal no Dipon)]] - [[Wp/ami|沖縄口]] - [[:it:|Italiano]] - [[:nl:|Nederlands]] - [[:pt:|Português]] - [[:es:|Español]] - [[:ru:|Русский]] - [[:nan:|Tâi-gí(sowal no Ngayngay)]] - [[:sv:|Svenska]] - [[:zh:|中文(sowal no Paylang)]]- [[:zh-yue:|粵語]] - [[:ko:|한국어]] - [[wp/jje|제주말]] - [[:no:|‪Norsk]] - [[:fi:|Suomi]] - [[:ca:|Català]] - [[:uk:|Українська]] - [[:tr:|Türkçe]] - [[:ro:|Română]] - [[:cs:|Česky]] - [[:hu:|Magyar]] - [[:eo:|Esperanto]] - [[:sk:|Slovenčina]] - [[wp/ain|Aynu itak]]|}}
+{{RyuHover|[[:en:|English]] - [[:de:|Deutsch]] - [[:fr:|Français]] - [[:pl:|Polski]] - [[:ja:|日本語(sowal no Dipon)]] - [[:ami:|沖縄口]] - [[:it:|Italiano]] - [[:nl:|Nederlands]] - [[:pt:|Português]] - [[:es:|Español]] - [[:ru:|Русский]] - [[:nan:|Tâi-gí(sowal no Ngayngay)]] - [[:sv:|Svenska]] - [[:zh:|中文(sowal no Paylang)]]- [[:zh-yue:|粵語]] - [[:ko:|한국어]] - [[:incubator:wp/jje|제주말]] - [[:no:|‪Norsk]] - [[:fi:|Suomi]] - [[:ca:|Català]] - [[:uk:|Українська]] - [[:tr:|Türkçe]] - [[:ro:|Română]] - [[:cs:|Česky]] - [[:hu:|Magyar]] - [[:eo:|Esperanto]] - [[:sk:|Slovenčina]] - [[:incubator:wp/ain|Aynu itak]]|}}
 
 </div>
 
@@ -138,7 +138,7 @@ id="多言語版ヰキペディヤ">'''{{RyuHover|Romaroma a sowal|}}'''</h2></d
 [[Faylo:Crystal Clear app package network.png|20px|left]]
 <h2 style="font-size: 125%; font-weight: normal; display: inline; border-style: none;"
 id="多言語版ヰキペディヤ">'''{{RyuHover|Roma a finacadan i Taywan a sowal|}}'''</h2></div>
-{{RyuHover|[[Wp/bnn|Bunun]] - [[Wp/xnb|Kanakanavu]] - [[Wp/pwn|Paiwan]] - [[Wp/uun|Pazih]] - [[Wp/pyu|Puyuma]] - [[Wp/dru|Rukai]] - [[Wp/xsy|Saisiyat]] - [[w:szy:|Sakizaya]] - [[w:trv:|Seediq]] - [[Wp/tvx|Taivoan]] - [[Wp/tao|Tao]] - [[w:tay:|Tayal]] - [[Wp/ssf|Thao]] - [[Wp/tsu|Tsou]]|}}
+{{RyuHover|[[:incubator:Wp/bnn|Bunun]] - [[:incubator:Wp/xnb|Kanakanavu]] - [[:incubator:Wp/pwn|Paiwan]] - [[:incubator:Wp/uun|Pazih]] - [[:incubator:Wp/pyu|Puyuma]] - [[:incubator:Wp/dru|Rukai]] - [[:incubator:Wp/xsy|Saisiyat]] - [[w:szy:|Sakizaya]] - [[w:trv:|Seediq]] - [[:incubator:Wp/tvx|Taivoan]] - [[:incubator:Wp/tao|Tao]] - [[w:tay:|Tayal]] - [[:incubator:Wp/ssf|Thao]] - [[:incubator:Wp/tsu|Tsou]]|}}
 
 </div>
 
