@@ -12,13 +12,9 @@ __NOEDITSECTION__
  default   =
 </inputbox>
 
-
-
-
 <!-- 頂欄結束 -->{| id="mp-upper" style="margin:0; background:none; background: transparent;background-color:#fff;  margin-top:10px"
 <!--     =====================   Wikipedia  ====================     -->
 |-
-
 
 <div class="center">[[Kasi’iked:AllPages|All pages of Wikipedia no Sowal no Pangcah]]<br/>
 <span class="plainlinks">[https://ami.wikipedia.org/wiki/Kasi%E2%80%99iked:%E5%AD%97%E9%A6%96%E7%B4%A2%E5%BC%95?prefix=&namespace=14 All categories]</span><br>
@@ -26,10 +22,10 @@ __NOEDITSECTION__
 
 <div class="center">我們已經有{{NUMBEROFARTICLES}}篇文章。</div>
 <div class="center">[[:Category:U suwal nu i amisay a Pangcah|U suwal nu i amisay a Pangcah(南勢阿美語)]]<br />
-[[:Category:Siwkulang 'Amis|Siwkulang 'Amis(秀姑巒阿美語)]]<br />
-[[:Category:Pasawalian 'Amis|Pasawalian 'Amis(海岸阿美語)]]<br />
-[[:Category:Farangaw 'Amis|Farangaw 'Amis(馬蘭阿美語)]]<br />
-[[:Category:Palidaw 'Amis|Palidaw 'Amis(恆春阿美語)]]</div><br />
+[[:Category:Siwkulang 'Amis|Siwkulang 'Amis (秀姑巒阿美語)]]<br />
+[[:Category:Pasawalian 'Amis|Pasawalian 'Amis (海岸阿美語)]]<br />
+[[:Category:Farangaw 'Amis|Farangaw 'Amis (馬蘭阿美語)]]<br />
+[[:Category:Palidaw 'Amis|Palidaw 'Amis (恆春阿美語)]]</div><br />
 
 <div style="float: right; width: 51%; margin: 0em 0em 1em 0em;">
 <div style="margin: 3pt 0pt; padding: 3pt; background: #FFB74C; color: #000000; border-width: 0pt 0pt 0pt 3pt; border-color: #FF4500; border-style: solid;">
@@ -99,8 +95,7 @@ bgcolor=#ffffff
 <div style="position:absolute; left:5px; top:-5px;">[[Faylo:Text-x-generic with pencil-2.svg|38px|link=]]</div>
 <div style="position:absolute; left:40px; top:0px;"><h2 style="margin:0; border-bottom:0; font-size:110%; font-weight:bold; text-align:left; color:#000; padding:.15em .4em;">Mikapot</h2></div></div>
 |-
-|This series of pages is for a test-wikipedia in the [[:en:Amis language|Amis language]]. 
-Your Amis input here will be appreciated. The request for the creation of the Amis Wikipedia will be approved if and when there is sufficient article content. When it is approved, all content here would be moved to the actual Wikipedia.
+|This is Wikipedia in the [[:en:Amis language|Amis language]]. Your Amis input here will be appreciated. 
 
 ''Amis speakers are encouraged to create as many top-quality articles as possible.''
 
@@ -116,8 +111,6 @@ Your Amis input here will be appreciated. The request for the creation of the Am
 |}
 |}
 |}
-
-
 
 <div style="float: left; width: 100%; margin: 0em 0em 1em 0em;">
 <div style="margin: 3pt 0pt; padding: 3pt; background: #88bfbf; color: #000000; border-width: 0pt 0pt 0pt 3pt; border-color: #0000ff; border-style: solid;">
