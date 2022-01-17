@@ -1,8 +1,5 @@
 <!-- 頂欄開始 -->
-
-__NOEDITSECTION__
-__NOTOC__
-<div id="mp_header" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0 0 0.5em; vertical-align: top; overflow: hidden; padding: 0.5em; font-size: small; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;">
+<div id="mp_header" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0 0 0.5em;vertical-align: top; overflow: hidden; padding: 0.5em; font-size: small; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;">
 
 {| width="100%"
 | <div style="float: left; width: 10em; height: 0em; margin: -0.9em 5em 0em -2.5em; overflow: visiable;">[[File:Wikipedia-logo-v2-200px-transparent.png|225px|link=|Wikipedia Phiêu-chì]]</div>
@@ -15,9 +12,6 @@ __NOTOC__
 {|style="width:100%; background:transparent;"
 | style="width:10%; font-size:99%;" |
 |}
-<td width="340px" style="border-left:1px solid #DDD;" valign="middle" align="center" rowspan="2">
-
-</td>
 |}
 
 
@@ -130,3 +124,6 @@ file:Amis_ê_gí-giân_kàu-châi.jpg|'''[[Codad]]'''
 <span class="mw-ui-button mw-ui-quiet">[[:Category:Palidaw 'Amis| Palidaw 'Amis (恆春阿美語)]]</span></li>
 </ul>
 </div>
+
+__NOEDITSECTION__
+__NOTOC__
