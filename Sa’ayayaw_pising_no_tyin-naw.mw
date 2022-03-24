@@ -98,27 +98,6 @@ file:Amis_ê_gí-giân_kàu-châi.jpg|'''[[Codad]]'''
 
 <div id="mp_header" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0 0 0.5em; overflow: hidden; padding: 0.5em; font-size: small; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px; background:#f5faff">
 {| style="border-spacing:8px;margin:0px -8px"
-|class="MainPageBG" style="width: 30%; border: 1px solid: #f5faff; background-color: #f5faff; vertical-align: top;  border-radius:10px" | 
-{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:f5faff;  -moz-border-radius:10px"
-|<div style="text-align:center; position:relative; left:2px; top:2px; margin:0;">|
-<inputbox>
- type      = create
- width     = 30
- bgcolor   = #f5faff
- preload   = Template:Standard content for new page
- editintro = Template:Instructions
- default   =
-</inputbox>
-|-
-|style="width:100%; text-align:center; white-space:nowrap; color:#38b;"|
-<span class="mw-ui-button mw-ui-quiet">[[:Category:U suwal nu i amisay a Pangcah|U suwal nu i amisay a Pangcah (南勢阿美語)]]</span></li>
-<span class="mw-ui-button mw-ui-quiet">[[:Category:Siwkulang 'Amis|Siwkulang 'Amis (秀姑巒阿美語)]]</span></li>
-<div style="text-align: center;><ul>
-<span class="mw-ui-button mw-ui-quiet">[[:Category:Pasawalian 'Amis| Pasawalian 'Amis (海岸阿美語)]]</span></li>
-<span class="mw-ui-button mw-ui-quiet">[[:Category:Farangaw 'Amis| Farangaw 'Amis (馬蘭阿美語)]]</span></li>
-<span class="mw-ui-button mw-ui-quiet">[[:Category:Palidaw 'Amis| Palidaw 'Amis (恆春阿美語)]]</span></li>
-</ul>
-</div>
-
-__NOEDITSECTION__
+|class="MainPageBG" style="width: 30%; border: 1px solid: #f5faff; background-color: #f5faff; vertical-align: top;  border-radius:10px" | __NOEDITSECTION__
 __NOTOC__
+|}
